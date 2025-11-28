@@ -1,6 +1,6 @@
 ![Dashboard EcoViagem](Pagina%20Inicial.png)
 
-# 🌱 **Dashboard Plataforma EcoViagem**
+#  **Dashboard Plataforma EcoViagem**
 
 ## **Visão Geral**
 
@@ -12,7 +12,7 @@ O painel busca apoiar a **tomada de decisões estratégicas**, identificando pad
 
 ---
 
-## ⚙️ **Tecnologias Utilizadas**
+##  **Tecnologias Utilizadas**
 
 - **Power BI** — construção do dashboard e criação das medidas DAX  
 - **PostgreSQL** — extração e tratamento dos dados  
@@ -20,7 +20,7 @@ O painel busca apoiar a **tomada de decisões estratégicas**, identificando pad
 
 ---
 
-## 📊 **Principais Resultados**
+##  **Principais Resultados**
 
 - Receita total: **R$664 mil**, com **791 reservas concluídas** e taxa de cancelamento de **9,35%**  
 - **66,8% das ofertas** possuem práticas sustentáveis, com destaque para *Certificação Fair Trade* e *Compostagem*  
@@ -30,7 +30,7 @@ O painel busca apoiar a **tomada de decisões estratégicas**, identificando pad
 
 ---
 
-## 💡 **Recomendações Estratégicas**
+##  **Recomendações Estratégicas**
 
 - Criar **campanhas sazonais** em períodos de baixa demanda  
 - Promover **ofertas e operadores de destaque** para incentivar boas práticas  
@@ -38,16 +38,16 @@ O painel busca apoiar a **tomada de decisões estratégicas**, identificando pad
 
 ---
 
-## 🧭 **Sobre o Projeto**
+##  **Sobre o Projeto**
 
 Este projeto foi desenvolvido com foco em **aprimorar habilidades em análise e visualização de dados** no Power BI, explorando práticas sustentáveis dentro do contexto do ecoturismo.
 
-> 📘 Confira o projeto completo com detalhamento técnico, modelagem de dados e insights aprofundados no Notion:  
+>  Confira o projeto completo com detalhamento técnico, modelagem de dados e insights aprofundados no Notion:  
 > [Dashboard Plataforma EcoViagem - Projeto Completo](https://pedroisv-portifolio.notion.site/Projeto-Dashboard-de-An-lise-de-Desempenho-da-Plataforma-de-Reservas-EcoViagem-2a8ff405119680c3b00aeb66a6cc9b89)
 
 ---
 
 **Autor:** Pedro Ivo Sales Vieira  
-📫 [pedroivosalesvieira@gmail.com](mailto:pedroivosalesvieira@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/pedroisv/)  
-💼 [Portfólio](https://www.notion.so/Portf-lio-24dff405119680c58205f1c13626ed0b?pvs=21)
+ [pedroivosalesvieira@gmail.com](mailto:pedroivosalesvieira@gmail.com)  
+ [LinkedIn](https://www.linkedin.com/in/pedroisv/)  
+ [Portfólio](https://www.notion.so/Portf-lio-24dff405119680c58205f1c13626ed0b?pvs=21)
