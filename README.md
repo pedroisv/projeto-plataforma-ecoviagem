@@ -1,14 +1,12 @@
 ![Dashboard EcoViagem](Pagina%20Inicial.png)
 
-#  **Dashboard Plataforma EcoViagem**
+#  **Projeto de Análise de Dados - Plataforma EcoViagem**
 
-## **Visão Geral**
+## **Introdução**
 
-O **Dashboard Plataforma EcoViagem** foi desenvolvido no **Power BI** com o objetivo de oferecer uma visão integrada do desempenho da plataforma de **reservas sustentáveis**, abordando indicadores das áreas de **reservas, clientes, ofertas, operadores e práticas sustentáveis**.
-
-Os dados foram extraídos de um **banco de dados PostgreSQL**, e todas as métricas e KPIs foram criados por meio de **medidas DAX**, garantindo uma análise **interativa, dinâmica e escalável**.
-
-O painel busca apoiar a **tomada de decisões estratégicas**, identificando padrões de comportamento, desempenho operacional e o impacto das práticas sustentáveis na performance geral da plataforma.
+A empresa EcoViagem tem uma plataforma de reservas focada em turismo sustentável no Brasil. Ela promove atividades e hospedagens ecológicas realizadas por operadores locais, e os conectando a viajantes interessados nessas experiências.
+**Nesse contexto, esse projeto consiste na analise de dados da plataforma através de consultas SQL, para responder perguntas estratégicas de negocio, e na confecção de um dashboard em Power BI, fornecendo assim insights que apoiarão diferentes times dentro da empresa a tomarem decisões estratégicas.**
+A analise foi desenvolvida em PostgreSQL por ser um SGBD robusto e confiável com código aberto, com recursos que facilitam a criação de consultas complexas e analise de desempenho. Depois, os dados foram exportados para o Power BI para criação do relatório.
 
 ---
 
@@ -20,30 +18,12 @@ O painel busca apoiar a **tomada de decisões estratégicas**, identificando pad
 
 ---
 
-##  **Principais Resultados**
-
-- Receita total: **R$664 mil**, com **791 reservas concluídas** e taxa de cancelamento de **9,35%**  
-- **66,8% das ofertas** possuem práticas sustentáveis, com destaque para *Certificação Fair Trade* e *Compostagem*  
-- **Operador Correia** lidera em receita total (**R$27 mil**) e diversidade de práticas sustentáveis  
-- **23,3% dos clientes** realizaram mais de uma compra, com tempo médio de **115 dias** entre reservas  
-- **Hospedagens** geraram cerca de **R$60 mil a mais** em receita do que atividades  
-
----
-
-##  **Recomendações Estratégicas**
-
-- Criar **campanhas sazonais** em períodos de baixa demanda  
-- Promover **ofertas e operadores de destaque** para incentivar boas práticas  
-- Monitorar **ticket médio e avaliações** para ajustar preços e aprimorar experiências  
-
----
-
 ##  **Sobre o Projeto**
 
-Este projeto foi desenvolvido com foco em **aprimorar habilidades em análise e visualização de dados** no Power BI, explorando práticas sustentáveis dentro do contexto do ecoturismo.
+Este projeto foi desenvolvido com foco em **aprimorar habilidades em análise e visualização de dados**.
 
->  Confira o projeto completo com detalhamento técnico, modelagem de dados e insights aprofundados no Notion:  
-> [Dashboard Plataforma EcoViagem - Projeto Completo](https://pedroisv-portifolio.notion.site/Projeto-Dashboard-de-An-lise-de-Desempenho-da-Plataforma-de-Reservas-EcoViagem-2a8ff405119680c3b00aeb66a6cc9b89)
+>  Confira o projeto completo no Notion:  
+> [Projeto de Análise de Dados - Plataforma EcoViagem](https://pedroisv-portifolio.notion.site/Projeto-de-An-lise-de-Dados-Plataforma-EcoViagem-2c5ff40511968000b20eec013b8ae3bb)
 
 ---
 
